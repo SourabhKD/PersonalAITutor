@@ -8,14 +8,14 @@ credentials:
       email: admin@example.com
       failed_login_attempts: 2
       name: Admin User
-      password: $2b$12$HE.1mPTj2/YcGQPl/CZtmOto0q0ZhQie2PvfsNP3K/eCpbOFFrM.q
+      password: yourhasedpassword
     demo1:
       email: example@gmail.com
       failed_login_attempts: 0
       first_name: demo
       last_name: demo
       logged_in: true
-      password: $2b$12$m8UU175pIP3DeYSpGscuJeFvFt3VT0ZG4soMd7B51eSknRvDn7rx6
+      password: yourhashedpassword
       password_hint: car
       progress:
         by_subject:
